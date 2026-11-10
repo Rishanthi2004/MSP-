@@ -1,0 +1,6 @@
+{
+  "name": "MSP Properties | Luxury Residential Enclaves & Estates",
+  "description": "Experience ultra-luxury master-planned gated residential plots and bespoke villa estates by MSP Properties. Generational land acquisition with title security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
