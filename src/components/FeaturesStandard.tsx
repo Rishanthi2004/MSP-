@@ -23,7 +23,7 @@ export const FeaturesStandard: React.FC<FeaturesStandardProps> = ({
       icon: Trees,
       tag: "Civil Craftsmanship",
       highlights: ["40ft & 30ft Blacktop Roads", "Granite Curbs & Stormwater Channels", "Pedestrian Walkways"],
-      image: "/src/assets/images/project_royal_palms_enclave_1794290582186.jpg",
+      image: "/assets/images/project_royal_palms_enclave_1794290582186.jpg",
     },
     {
       title: t.feat2Title,
@@ -32,7 +32,7 @@ export const FeaturesStandard: React.FC<FeaturesStandardProps> = ({
       icon: Zap,
       tag: "Future-Proof Grid",
       highlights: ["Zero Overhead Ugly Cables", "Concealed High-Tension Ring Main", "Pre-Installed Fiber Ducts"],
-      image: "/src/assets/images/hero_luxury_residential_estate_1794290580559.jpg",
+      image: "/assets/images/hero_luxury_residential_estate_1794290580559.jpg",
     },
     {
       title: t.feat3Title,
@@ -41,7 +41,7 @@ export const FeaturesStandard: React.FC<FeaturesStandardProps> = ({
       icon: ShieldCheck,
       tag: "Zero Legal Risk",
       highlights: ["30-Year Bar Council Scrutiny", "RERA & DTCP Statutory Sanctions", "Immediate Individual Patta Transfer"],
-      image: "/src/assets/images/gallery_grand_arch_entrance_1794290582969.jpg",
+      image: "/assets/images/gallery_grand_arch_entrance_1794290582969.jpg",
     },
     {
       title: t.feat4Title,
@@ -50,7 +50,7 @@ export const FeaturesStandard: React.FC<FeaturesStandardProps> = ({
       icon: Landmark,
       tag: "Lifestyle & Leisure",
       highlights: ["Members Clubhouse & Verandah", "Freshwater Lake Promenade", "Zen Reflexology Gardens"],
-      image: "/src/assets/images/project_emerald_waters_lake_1794290583005.jpg",
+      image: "/assets/images/project_emerald_waters_lake_1794290583005.jpg",
     },
   ];
 

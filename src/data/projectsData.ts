@@ -27,11 +27,11 @@ export const initialProjects: Project[] = [
       "Nilgiris Biosphere Hill Area Clearance",
       "Immediate Individual E-Patta Sanctioned"
     ],
-    heroImage: "/src/assets/images/hero_luxury_residential_estate_1794290580559.jpg",
+    heroImage: "/assets/images/hero_luxury_residential_estate_1794290580559.jpg",
     gallery: [
-      "/src/assets/images/hero_luxury_residential_estate_1794290580559.jpg",
-      "/src/assets/images/gallery_grand_arch_entrance_1794290582969.jpg",
-      "/src/assets/images/project_royal_palms_enclave_1794290582186.jpg",
+      "/assets/images/hero_luxury_residential_estate_1794290580559.jpg",
+      "/assets/images/gallery_grand_arch_entrance_1794290582969.jpg",
+      "/assets/images/project_royal_palms_enclave_1794290582186.jpg",
     ],
     description: "Nestled against the lush verdant silhouettes of the Western Ghats, The Reserve by MSP spans 42 acres of pristine, fertile terrain. Crafted with 40-foot wide tree-lined boulevards, complete underground power conduits, and an exclusive clubhouse pavilion overlooking landscaped lake water bodies.",
     descriptionTa: "மேற்கு தொடர்ச்சி மலையின் பசுமையான பின்னணியில் 42 ஏக்கர் பரப்பளவில் அமைந்துள்ள 'தி ரிசர்வ்', தூய காற்று, நிலத்தடி மின்சார வசதிகள், 40 அடி அகல தார்ச்சாலைகள் மற்றும் இயற்கை ஏரி கொண்ட ஒரு கம்பீரமான சொகுசு குடியிருப்பு சொர்க்கம்.",
@@ -113,11 +113,11 @@ export const initialProjects: Project[] = [
       "Panchayat Union NOC & Clear Parent Deed",
       "Immediate Nationalised Bank Loan Approved"
     ],
-    heroImage: "/src/assets/images/project_royal_palms_enclave_1794290582186.jpg",
+    heroImage: "/assets/images/project_royal_palms_enclave_1794290582186.jpg",
     gallery: [
-      "/src/assets/images/project_royal_palms_enclave_1794290582186.jpg",
-      "/src/assets/images/gallery_grand_arch_entrance_1794290582969.jpg",
-      "/src/assets/images/hero_luxury_residential_estate_1794290580559.jpg",
+      "/assets/images/project_royal_palms_enclave_1794290582186.jpg",
+      "/assets/images/gallery_grand_arch_entrance_1794290582969.jpg",
+      "/assets/images/hero_luxury_residential_estate_1794290580559.jpg",
     ],
     description: "Designed for discerning families seeking an oasis of tranquility with effortless connectivity. The Grove features grand stone masonry boundary walls, royal date palms, underground potable water grids, and paved pedestrian jogging trails.",
     descriptionTa: "அவிநாசி முக்கிய சாலையில் அமைந்துள்ள 'தி குரோவ்', நேர்த்தியான கல்வேலிகள், ராயல் பாம் பனைமரங்கள், தார்ச்சாலைகள் மற்றும் உடனடியாக வீடு கட்ட உகந்த சிறந்த கட்டமைப்பு கொண்டது.",
@@ -195,11 +195,11 @@ export const initialProjects: Project[] = [
       "Forest & Environmental Buffer Clearance",
       "Private Mountain Access Road Certified"
     ],
-    heroImage: "/src/assets/images/project_serene_valley_hills_1794290582457.jpg",
+    heroImage: "/assets/images/project_serene_valley_hills_1794290582457.jpg",
     gallery: [
-      "/src/assets/images/project_serene_valley_hills_1794290582457.jpg",
-      "/src/assets/images/gallery_grand_arch_entrance_1794290582969.jpg",
-      "/src/assets/images/hero_luxury_residential_estate_1794290580559.jpg",
+      "/assets/images/project_serene_valley_hills_1794290582457.jpg",
+      "/assets/images/gallery_grand_arch_entrance_1794290582969.jpg",
+      "/assets/images/hero_luxury_residential_estate_1794290580559.jpg",
     ],
     description: "Perched 2,400 feet above sea level with perpetual cool breezes, Serene Valley Estates provides limited-edition hill sanctuary plots. Bordered by manicured organic tea gardens and natural mountain streams, each plot offers breathtaking 180-degree valley vistas.",
     descriptionTa: "கடல் மட்டத்திலிருந்து 2,400 அடி உயரத்தில், எப்போதும் இதமான குளிர்ந்த காற்றுடன் தேயிலைத் தோட்டங்களின் நடுவே அமைந்துள்ள தனித்துவமான மலை வாழ்விட மனைகள். பிரமிக்க வைக்கும் இயற்கை அழகு மற்றும் நவீன வசதிகள்.",
@@ -273,11 +273,11 @@ export const initialProjects: Project[] = [
       "PWD Water Resources Dept. NOC",
       "High Flood Level (HFL) Certified Safe"
     ],
-    heroImage: "/src/assets/images/project_emerald_waters_lake_1794290583005.jpg",
+    heroImage: "/assets/images/project_emerald_waters_lake_1794290583005.jpg",
     gallery: [
-      "/src/assets/images/project_emerald_waters_lake_1794290583005.jpg",
-      "/src/assets/images/gallery_grand_arch_entrance_1794290582969.jpg",
-      "/src/assets/images/hero_luxury_residential_estate_1794290580559.jpg",
+      "/assets/images/project_emerald_waters_lake_1794290583005.jpg",
+      "/assets/images/gallery_grand_arch_entrance_1794290582969.jpg",
+      "/assets/images/hero_luxury_residential_estate_1794290580559.jpg",
     ],
     description: "An ultra-exclusive collection of lakefront residential plots commanding uninterrupted vistas across calm azure waters. Featuring an engineered timber promenade, sunset viewing deck, and water-themed landscaped recreation zones.",
     descriptionTa: "அமைதியான நீல நிற ஏரியின் முகப்பில் அமைந்துள்ள அரிய சொகுசு வீட்டு மனைகள். பிரத்தியேக மரத்தாலான ஏரிக்கரை நடைபாதை, சூரிய அஸ்தமன தளம் மற்றும் இயற்கை எழில் கொஞ்சும் பூங்காக்கள் கொண்டது.",
@@ -333,7 +333,7 @@ export const initialGallery: GalleryItem[] = [
     title: "The Master Aerial - The Reserve",
     titleTa: "தி ரிசர்வ் - பிரம்மாண்ட வான்வழி பார்வை",
     category: "Aerials",
-    image: "/src/assets/images/hero_luxury_residential_estate_1794290580559.jpg",
+    image: "/assets/images/hero_luxury_residential_estate_1794290580559.jpg",
     caption: "A bird's eye view over 42 acres of master-planned layout infrastructure and lakefront enclaves.",
     captionTa: "42 ஏக்கர் பரப்பளவிலான முழுமையான உள்கட்டமைப்பு மற்றும் ஏரிக்கரை மனைகளின் வான்வழி காட்சி."
   },
@@ -342,7 +342,7 @@ export const initialGallery: GalleryItem[] = [
     title: "Monumental Travertine Entrance Arch",
     titleTa: "கம்பீரமான பிரதான நுழைவு வளைவு",
     category: "Grand Entrances",
-    image: "/src/assets/images/gallery_grand_arch_entrance_1794290582969.jpg",
+    image: "/assets/images/gallery_grand_arch_entrance_1794290582969.jpg",
     caption: "Dual vehicular gateways flanked by natural water cascades and automated RFID booms.",
     captionTa: "இயற்கை நீரூற்று மற்றும் தானியங்கி பாதுகாப்பு கேட்கள் கொண்ட பிரமாண்ட நுழைவு வளைவு."
   },
@@ -351,7 +351,7 @@ export const initialGallery: GalleryItem[] = [
     title: "40ft Royal Palm Boulevard",
     titleTa: "40 அடி பனைமர பசுமை நெடுஞ்சாலை",
     category: "Avenues & Roads",
-    image: "/src/assets/images/project_royal_palms_enclave_1794290582186.jpg",
+    image: "/assets/images/project_royal_palms_enclave_1794290582186.jpg",
     caption: "Heavy-duty blacktop roads lined with curbside flora and underground electrical ducts.",
     captionTa: "இருபுறமும் மலர் மரங்கள் மற்றும் நிலத்தடி மின்சார வசதிகளுடன் கூடிய அகன்ற தார்ச்சாலைகள்."
   },
@@ -360,7 +360,7 @@ export const initialGallery: GalleryItem[] = [
     title: "Misty Foothills of Serene Valley",
     titleTa: "செரீன் வேலி - பனி படர்ந்த மலை முகடுகள்",
     category: "Landscapes",
-    image: "/src/assets/images/project_serene_valley_hills_1794290582457.jpg",
+    image: "/assets/images/project_serene_valley_hills_1794290582457.jpg",
     caption: "Tiered villa plots carved into gentle tea garden slopes with certified stone contour terracing.",
     captionTa: "தேயிலைத் தோட்டங்களின் நடுவே அமைக்கப்பட்ட தனித்துவமான மலை வாழ்விட மனைகள்."
   },
@@ -369,7 +369,7 @@ export const initialGallery: GalleryItem[] = [
     title: "Lakefront Sunset Boardwalk",
     titleTa: "ஏரிக்கரை மாலை பார்வை தளம்",
     category: "Landscapes",
-    image: "/src/assets/images/project_emerald_waters_lake_1794290583005.jpg",
+    image: "/assets/images/project_emerald_waters_lake_1794290583005.jpg",
     caption: "Peaceful waterfront pavilion reserved exclusively for residents of Serenity Shores.",
     captionTa: "செரினிட்டி ஷோர்ஸ் குடியிருப்பாளர்களுக்கான அமைதியான ஏரிக்கரை மாலை நடைபாதை."
   }

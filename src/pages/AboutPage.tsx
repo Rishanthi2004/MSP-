@@ -85,7 +85,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({
               <Tilt3DCard maxTilt={5}>
                 <div className="relative rounded-2xl overflow-hidden border border-stone-200 shadow-2xl group">
                   <img
-                    src="/src/assets/images/hero_luxury_residential_estate_1794290580559.jpg"
+                    src="/assets/images/hero_luxury_residential_estate_1794290580559.jpg"
                     alt="MSP Properties Plotted Community"
                     className="w-full h-[420px] object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
                     referrerPolicy="no-referrer"

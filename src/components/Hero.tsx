@@ -60,7 +60,7 @@ export const Hero: React.FC<HeroProps> = ({
         }}
       >
         <img
-          src="/src/assets/images/hero_luxury_residential_estate_1794290580559.jpg"
+          src="/assets/images/hero_luxury_residential_estate_1794290580559.jpg"
           alt="MSP Luxury Residential Plotted Estate"
           className="w-full h-full object-cover object-center brightness-[1.08] contrast-[1.02] saturate-[1.12]"
           referrerPolicy="no-referrer"

@@ -460,7 +460,7 @@ export const ContactPage: React.FC<ContactPageProps> = ({
               <div className="pt-4 border-t border-stone-100">
                 <div className="relative h-44 rounded-xl overflow-hidden border border-stone-200 bg-[#FAF0E6] flex flex-col justify-end p-4">
                   <img
-                    src="/src/assets/images/gallery_grand_arch_entrance_1794290582969.jpg"
+                    src="/assets/images/gallery_grand_arch_entrance_1794290582969.jpg"
                     alt="MSP Headquarters Entrance"
                     className="absolute inset-0 w-full h-full object-cover brightness-[0.85]"
                     referrerPolicy="no-referrer"

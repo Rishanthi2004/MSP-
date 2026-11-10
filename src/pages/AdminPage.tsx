@@ -339,10 +339,10 @@ export const AdminPage: React.FC<AdminPageProps> = ({
                     status: 'Ready for Registration',
                     statusTa: 'பதிவுக்கு தயார்',
                     approvals: ['DTCP Approval Sanctioned 2026', 'TN RERA Registered'],
-                    heroImage: '/src/assets/images/hero_luxury_residential_estate_1794290580559.jpg',
+                    heroImage: '/assets/images/hero_luxury_residential_estate_1794290580559.jpg',
                     gallery: [
-                      '/src/assets/images/hero_luxury_residential_estate_1794290580559.jpg',
-                      '/src/assets/images/gallery_grand_arch_entrance_1794290582969.jpg',
+                      '/assets/images/hero_luxury_residential_estate_1794290580559.jpg',
+                      '/assets/images/gallery_grand_arch_entrance_1794290582969.jpg',
                     ],
                     description: 'A prestigious new master-planned plotted community with 40ft avenues and underground electrical infrastructure.',
                     descriptionTa: '40 அடி தார்ச்சாலைகள் மற்றும் நிலத்தடி மின்சார வசதிகள் கொண்ட புதிய சொகுசு குடியிருப்பு மனைகள்.',
@@ -849,7 +849,7 @@ export const AdminPage: React.FC<AdminPageProps> = ({
                   required
                   value={newGalleryImage}
                   onChange={(e) => setNewGalleryImage(e.target.value)}
-                  placeholder="/src/assets/images/..."
+                  placeholder="/assets/images/..."
                   className="w-full px-3 py-2 rounded border border-stone-300 text-sm focus:outline-none focus:border-[#8C6D23]"
                 />
               </div>
