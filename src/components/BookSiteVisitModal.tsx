@@ -115,7 +115,7 @@ export const BookSiteVisitModal: React.FC<BookSiteVisitModalProps> = ({
 
             <div>
               <span className="text-xs uppercase tracking-widest text-[#DFBE76] font-semibold">
-                VIP Reservation Confirmed
+                Reservation Confirmed
               </span>
               <h2 className="text-3xl font-serif text-[#FAF7F2] mt-1">
                 {t.successTitle}

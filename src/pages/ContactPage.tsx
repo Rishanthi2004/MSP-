@@ -139,7 +139,7 @@ export const ContactPage: React.FC<ContactPageProps> = ({
 
                     <div>
                       <span className="text-xs uppercase tracking-widest text-[#8C6D23] font-semibold">
-                        VIP Registration Confirmed
+                        Registration Confirmed
                       </span>
                       <h2 className="font-serif text-3xl font-bold text-[#2A050A] mt-1">
                         {t.successTitle}
@@ -468,7 +468,7 @@ export const ContactPage: React.FC<ContactPageProps> = ({
                   <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
                   <div className="relative z-10 text-white">
                     <span className="text-[10px] uppercase font-bold text-[#DFBE76] tracking-wider block">
-                      VIP Reception Suite
+                      Reception Suite
                     </span>
                     <span className="text-xs font-serif font-bold text-white">
                       Coimbatore - Avinashi Express Highway

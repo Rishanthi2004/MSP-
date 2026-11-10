@@ -25,7 +25,7 @@ export const VipConciergeBanner: React.FC<VipConciergeBannerProps> = ({
           <div className="space-y-4 max-w-2xl">
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#DFBE76]/15 border border-[#DFBE76]/40 text-[#DFBE76] text-xs font-semibold uppercase tracking-widest">
               <Sparkles className="w-3.5 h-3.5" />
-              <span>Complimentary VIP Experience</span>
+              <span>Complimentary Site Visit Experience</span>
             </div>
 
             <h2 className="font-serif text-2xl sm:text-3xl md:text-4xl font-bold text-[#FAF7F2] leading-tight">

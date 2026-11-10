@@ -257,7 +257,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               </button>
 
               <div className="flex items-center justify-between text-xs text-[#FAF7F2]/70 pt-2 px-1">
-                <span>MSP VIP Concierge</span>
+                <span>MSP Concierge Desk</span>
                 <a href="tel:+919842200000" className="text-[#DFBE76] font-medium flex items-center gap-1">
                   <Phone className="w-3.5 h-3.5" />
                   +91 98422 00000

@@ -440,7 +440,7 @@ export const AdminPage: React.FC<AdminPageProps> = ({
             <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 pb-4 border-b border-stone-200">
               <div>
                 <h2 className="font-serif text-2xl font-bold text-[#2A050A]">
-                  Customer Enquiries & VIP Site Visits
+                  Customer Enquiries & Site Visits
                 </h2>
                 <p className="text-xs text-stone-500">
                   Total {enquiries.length} site visits requested by prospective buyers.
